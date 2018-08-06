@@ -1,0 +1,61 @@
+{"frames": {
+	"Connect with Friends Fore.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":1538,"y":0,"w":1536,"h":2048},
+		"spriteSourceSize": {"x":0,"y":0,"w":1536,"h":2048},
+		"sourceSize": {"w":1536,"h":2048}
+	},
+	"Connect with Friends Transparent.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":0,"w":1536,"h":2048},
+		"spriteSourceSize": {"x":0,"y":0,"w":1536,"h":2048},
+		"sourceSize": {"w":1536,"h":2048}
+	},
+	"Facebook Logo.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":2538,"w":256,"h":256},
+		"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
+		"sourceSize": {"w":256,"h":256}
+	},
+	"Game-Center-icon.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":2796,"w":256,"h":256},
+		"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
+		"sourceSize": {"w":256,"h":256}
+	},
+	"Logged in FB.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":2050,"w":670,"h":120},
+		"spriteSourceSize": {"x":0,"y":0,"w":670,"h":120},
+		"sourceSize": {"w":670,"h":120}
+	},
+	"Logged in GC.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":2294,"w":670,"h":120},
+		"spriteSourceSize": {"x":0,"y":0,"w":670,"h":120},
+		"sourceSize": {"w":670,"h":120}
+	},
+	"Login FB.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":2172,"w":670,"h":120},
+		"spriteSourceSize": {"x":0,"y":0,"w":670,"h":120},
+		"sourceSize": {"w":670,"h":120}
+	},
+	"Login GC.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":2416,"w":670,"h":120},
+		"spriteSourceSize": {"x":0,"y":0,"w":670,"h":120},
+		"sourceSize": {"w":670,"h":120}
+	},
+	"X.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":3054,"w":128,"h":128},
+		"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+		"sourceSize": {"w":128,"h":128}
+	},
+}
+"meta": {
+	"app": "ShoeBox",
+	"size": {"w":4096,"h":4096}
+}
+}

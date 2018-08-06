@@ -1,0 +1,49 @@
+{"frames": {
+	"Against The Clock.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":202,"w":200,"h":200},
+		"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+		"sourceSize": {"w":200,"h":200}
+	},
+	"Facebook.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":154,"y":404,"w":75,"h":75},
+		"spriteSourceSize": {"x":0,"y":0,"w":75,"h":75},
+		"sourceSize": {"w":75,"h":75}
+	},
+	"Friends.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":77,"y":404,"w":75,"h":75},
+		"spriteSourceSize": {"x":0,"y":0,"w":75,"h":75},
+		"sourceSize": {"w":75,"h":75}
+	},
+	"Profile.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":202,"y":202,"w":75,"h":75},
+		"spriteSourceSize": {"x":0,"y":0,"w":75,"h":75},
+		"sourceSize": {"w":75,"h":75}
+	},
+	"Settings.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":202,"y":0,"w":200,"h":200},
+		"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+		"sourceSize": {"w":200,"h":200}
+	},
+	"Store.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":404,"w":75,"h":75},
+		"spriteSourceSize": {"x":0,"y":0,"w":75,"h":75},
+		"sourceSize": {"w":75,"h":75}
+	},
+	"The Journey.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":0,"w":200,"h":200},
+		"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+		"sourceSize": {"w":200,"h":200}
+	},
+}
+"meta": {
+	"app": "ShoeBox",
+	"size": {"w":512,"h":512}
+}
+}

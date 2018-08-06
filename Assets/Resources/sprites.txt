@@ -1,0 +1,115 @@
+{"frames": {
+	"BeatBreakerLogo.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":0,"w":363,"h":74},
+		"spriteSourceSize": {"x":19,"y":23,"w":400,"h":128},
+		"sourceSize": {"w":400,"h":128}
+	},
+	"achievements.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":362,"w":212,"h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":212,"h":40},
+		"sourceSize": {"w":212,"h":40}
+	},
+	"add friends.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":213,"y":280,"w":212,"h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":212,"h":40},
+		"sourceSize": {"w":212,"h":40}
+	},
+	"endurance.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":213,"y":198,"w":212,"h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":212,"h":40},
+		"sourceSize": {"w":212,"h":40}
+	},
+	"facebook.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":213,"y":157,"w":212,"h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":212,"h":40},
+		"sourceSize": {"w":212,"h":40}
+	},
+	"host match.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":213,"y":116,"w":212,"h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":212,"h":40},
+		"sourceSize": {"w":212,"h":40}
+	},
+	"journey.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":213,"y":75,"w":212,"h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":212,"h":40},
+		"sourceSize": {"w":212,"h":40}
+	},
+	"leaderboards.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":444,"w":212,"h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":212,"h":40},
+		"sourceSize": {"w":212,"h":40}
+	},
+	"music.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":403,"w":212,"h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":212,"h":40},
+		"sourceSize": {"w":212,"h":40}
+	},
+	"options.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":213,"y":321,"w":212,"h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":212,"h":40},
+		"sourceSize": {"w":212,"h":40}
+	},
+	"play.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":213,"y":239,"w":212,"h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":212,"h":40},
+		"sourceSize": {"w":212,"h":40}
+	},
+	"quick play.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":280,"w":212,"h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":212,"h":40},
+		"sourceSize": {"w":212,"h":40}
+	},
+	"record store.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":239,"w":212,"h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":212,"h":40},
+		"sourceSize": {"w":212,"h":40}
+	},
+	"return to music.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":198,"w":212,"h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":212,"h":40},
+		"sourceSize": {"w":212,"h":40}
+	},
+	"sfx.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":321,"w":212,"h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":212,"h":40},
+		"sourceSize": {"w":212,"h":40}
+	},
+	"share us.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":116,"w":212,"h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":212,"h":40},
+		"sourceSize": {"w":212,"h":40}
+	},
+	"solo play.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":157,"w":212,"h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":212,"h":40},
+		"sourceSize": {"w":212,"h":40}
+	},
+	"timed.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":75,"w":212,"h":40},
+		"spriteSourceSize": {"x":0,"y":0,"w":212,"h":40},
+		"sourceSize": {"w":212,"h":40}
+	},
+}
+"meta": {
+	"app": "ShoeBox",
+	"size": {"w":512,"h":512}
+}
+}

@@ -1,0 +1,13 @@
+{"frames": {
+	"peppermint.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":0,"w":1024,"h":1024},
+		"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":1024},
+		"sourceSize": {"w":1024,"h":1024}
+	},
+}
+"meta": {
+	"app": "ShoeBox",
+	"size": {"w":2048,"h":2048}
+}
+}

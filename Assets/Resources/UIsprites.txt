@@ -1,0 +1,31 @@
+{"frames": {
+	"Icons.xcf-Facebook.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":659,"w":668,"h":668},
+		"spriteSourceSize": {"x":66,"y":66,"w":800,"h":800},
+		"sourceSize": {"w":800,"h":800}
+	},
+	"Icons.xcf-Me.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":641,"y":1329,"w":452,"h":652},
+		"spriteSourceSize": {"x":174,"y":71,"w":800,"h":800},
+		"sourceSize": {"w":800,"h":800}
+	},
+	"Icons.xcf-Shop.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":1329,"w":639,"h":649},
+		"spriteSourceSize": {"x":81,"y":77,"w":800,"h":800},
+		"sourceSize": {"w":800,"h":800}
+	},
+	"Multiplayer.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":0,"w":706,"h":657},
+		"spriteSourceSize": {"x":53,"y":66,"w":800,"h":800},
+		"sourceSize": {"w":800,"h":800}
+	},
+}
+"meta": {
+	"app": "ShoeBox",
+	"size": {"w":2048,"h":2048}
+}
+}

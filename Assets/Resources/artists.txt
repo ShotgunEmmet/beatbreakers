@@ -1,0 +1,31 @@
+{"frames": {
+	"Chipzel.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":130,"y":0,"w":128,"h":128},
+		"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+		"sourceSize": {"w":128,"h":128}
+	},
+	"Henry Homesweet.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":130,"w":128,"h":128},
+		"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+		"sourceSize": {"w":128,"h":128}
+	},
+	"Knife_City.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":260,"w":128,"h":128},
+		"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+		"sourceSize": {"w":128,"h":128}
+	},
+	"Sabrepulse.png":{
+		"rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":0,"w":128,"h":128},
+		"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+		"sourceSize": {"w":128,"h":128}
+	},
+}
+"meta": {
+	"app": "ShoeBox",
+	"size": {"w":512,"h":512}
+}
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<BBDLC>
+	<currentBundle>DLC1</currentBundle>
+	<dlctrack>
+		<artist>Crash Faster</artist>
+		<track>Closer</track>
+		<image>CrashFaster.png</image>
+		<id>TKCRACLO</id>
+	</dlctrack>
+	<dlctrack>
+		<artist>Crash Faster</artist>
+		<track>The Out</track>
+		<image>CrashFaster.png</image>
+		<id>TKCRATHE</id>
+	</dlctrack>
+	<dlctrack>
+		<artist>Iron Curtain</artist>
+		<track>Imperatum Ad Machinas</track>
+		<image>IronCurtain.png</image>
+		<id>TMIROIMP</id>
+	</dlctrack>
+	<dlctrack>
+		<artist>Iron Curtain</artist>
+		<track>Through The Asteroid Belt</track>
+		<image>IronCurtain.png</image>
+		<id>TKIROTHR</id>
+	</dlctrack>
+</BBDLC>
